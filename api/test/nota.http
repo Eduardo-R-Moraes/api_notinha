@@ -1,0 +1,8 @@
+@url = http://127.0.0.1:8000/notas_casa
+
+GET {{url}}
+Content-Type: application/json
+
+{
+    "url_notinha": "https://www.nfce.fazenda.sp.gov.br/NFCeConsultaPublica/Paginas/ConsultaQRCode.aspx?p=35251043372807000168650010000343801000363546|2|1|1|2A1B61119FC0DEFBA542C63E44AEEB9B2D2AE62B"
+}
